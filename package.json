@@ -21,14 +21,14 @@
     "prepare": "is-ci || husky install"
   },
   "dependencies": {
-    "@changesets/cli": "^2.27.1",
+    "@changesets/cli": "^2.27.8",
     "@resvg/resvg-wasm": "^2.6.2",
     "@vercel/analytics": "^1.2.2",
     "autoprefixer": "^10.4.19",
     "badgen": "^3.2.3",
     "clsx": "^2.1.0",
     "copee": "^1.0.6",
-    "daisyui": "^2.46.1",
+    "daisyui": "^4.0.0",
     "hero-patterns": "^2.1.0",
     "is-ci": "^3.0.1",
     "next": "^14.2.3",
