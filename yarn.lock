@@ -4471,10 +4471,10 @@ signal-exit@^4.0.1:
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-4.1.0.tgz#952188c1cbd546070e2dd20d0f41c0ae0530cb04"
   integrity sha512-bzyZ1e88w9O1iNJbKnOlvYTrWPDl46O1bG0D3XInv+9tkPrxrN8jUUTiFlDkkmKWgn1M6CfIA13SuGqOa9Korw==
 
-simple-icons@^13.2.0:
-  version "13.5.0"
-  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-13.5.0.tgz#9f4f1477e145f411cec70b79e7a4c30b3194ff02"
-  integrity sha512-6VrM4xSty8EesmQbjI++Lk8FkV+gl3Ve+DnTQVc7ovZryKpc9JZSuZA8NNc7lC3Mqbh0GLlX3WXdITZlDu7bSQ==
+simple-icons@^15.13.0:
+  version "15.16.0"
+  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-15.16.0.tgz#215adc76432749f4f4a0849a6e6ebd06c469a092"
+  integrity sha512-AeyYdQ5BsFe7ONruVRClZ+2921tQIEcHuP9AZdNUR0in1jFeakH0pA9Rkjj0T/RkTH7Icx2jprXxWWY3aaCDJQ==
 
 simple-swizzle@^0.2.2:
   version "0.2.2"
